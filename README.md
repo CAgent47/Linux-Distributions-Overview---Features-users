@@ -28,3 +28,6 @@ A complete table of popular Linux distributions, their main features, and the us
 | Gentoo | Source-based, highly customizable, performance-oriented | Power users, Performance enthusiasts |
 
 Created by CAgent_47
+
+---
+![Banner](banner.png)
