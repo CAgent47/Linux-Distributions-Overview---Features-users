@@ -30,4 +30,9 @@ A complete table of popular Linux distributions, their main features, and the us
 Created by CAgent_47
 
 ---
+
+[#Linux](https://github.com/topics/linux)
+[#CAgent_47](https://github.com/topics/CAgent47)
+
+---
 ![Banner](banner.png)
